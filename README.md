@@ -2,4 +2,4 @@
 
 ### Ссылка на nbviewer
 
-[Моделирование движения тела в постоянном поле силы тяжести](https://nbviewer.jupyter.org/github/donquant/Mathematical_Modeling/blob/main/projectile_motion.ipynb)
+[Моделирование движения тела в постоянном поле силы тяжести](https://nbviewer.jupyter.org/github/donquant/Mathematical_Modeling/blob/main/projectile_motion.ipynb?flush_cache=true)
